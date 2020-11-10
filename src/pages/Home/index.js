@@ -14,7 +14,6 @@ export default function Home() {
         async function loadApi(){
             const response = await api.get('trips')
             setTrips(response.data);
-
             console.log(response.data)
         }
 
