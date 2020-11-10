@@ -6,9 +6,9 @@ This is an application with integration between React and Redux made for study p
 
 In the project directory, you can run:
 
-### `json-server server.json`
+### `json-server server.json -p 3333`
 
-use this command to create the test server.
+Use this command to create the test server in the port 3333.
 
 ### `yarn start`
 
